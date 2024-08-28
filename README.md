@@ -13,10 +13,10 @@ The Collaborative Task Management Platform is a web application where users can 
 
 # Technologies to Use
 
-+ **Frontend**: HTML, CSS (Bootstrap), JavaScript (jQuery or React for interactivity).
-+ **Backend**: Python with Django or Flask.
-+ **Database**: MySQL.
-+ **Version Control**: Git and GitHub.
++ **Frontend**: HTML [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev), CSS (Bootstrap) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev), JavaScript [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev).
++ **Backend**: Python with Django or Flask. [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev).
++ **Database**: MySQL. [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev).
++ **Version Control**: Git and GitHub. [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev).
 
 # Steps to Develop the Project
 
