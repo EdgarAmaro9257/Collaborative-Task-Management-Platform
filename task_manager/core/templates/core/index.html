@@ -1,0 +1,13 @@
+{% extends 'core/base.html' %}
+
+{% block title %}Inicio{% endblock %}
+
+{% block content %}
+<div class="jumbotron">
+    <h1 class="display-4">Bienvenido a TaskManager</h1>
+    <p class="lead">Gestiona tus proyectos y tareas de forma colaborativa.</p>
+    <hr class="my-4">
+    <p>Comienza creando un nuevo proyecto o revisa los que ya tienes.</p>
+    <a class="btn btn-primary btn-lg" href="{% url 'project_list' %}" role="button">Ver Proyectos</a>
+</div>
+{% endblock %}
