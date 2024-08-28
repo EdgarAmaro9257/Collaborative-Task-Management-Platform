@@ -54,6 +54,6 @@ The Collaborative Task Management Platform is a web application where users can 
 - Conduct user testing to ensure the interface is intuitive and functional.
 
 # Web Design
-
-
+![Images](https://github.com/EdgarAmaro9257/Collaborative-Task-Management-Platform/blob/main/Imagenes/PaginaWeb_1.png)
+![Images](https://github.com/EdgarAmaro9257/Collaborative-Task-Management-Platform/blob/main/Imagenes/PaginaWeb_2.png)
 
